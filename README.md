@@ -42,7 +42,7 @@ Este projeto faz parte de uma atividade prática de Banco de Dados, integrando:
 
 ## 🧩 Diagrama Entidade-Relacionamento (DER)
 
-<img width="721" height="721" alt="Der_Padarosa" src="https://github.com/user-attachments/assets/7c3e1bc9-00ad-4e1f-bc0e-d8e6cda56e4e" />
+<img width="721" height="721" alt="Der_Padarosa" src="DER/Der_Padarosa.png" />
 
 ---
 
